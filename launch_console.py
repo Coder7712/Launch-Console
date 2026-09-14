@@ -7,12 +7,12 @@ while running:
     print("2) My goals")
     print("3) Favorite Color")
     print("4) Exit")
-    choice = input("Pick 1-3: ")
+    choice = input("Pick 1-4: ")
     if choice == "1":
         print(f"I am {name} and I am a senior at Fordson High School. ")
     elif choice == "2":
         print("My goals are to get into the University of Michigan Ann Arbor and get a degree in mechanical or Aerospace Engineering.")
-    elif choice == "3"
+    elif choice == "3":
         print("My favorite color is green")
     elif choice == "4":
         print("Goodbye!")
